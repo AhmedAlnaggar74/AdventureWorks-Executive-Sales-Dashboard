@@ -12,7 +12,7 @@ An executive-level, interactive Business Intelligence solution built on the **Ad
 
 ## 📸 Executive Dashboard Preview
 
-![Dashboard Overview](dashboard_preview.png)
+![Dashboard Overview](docs/dashboard_Preview2.png)
 
 ---
 
